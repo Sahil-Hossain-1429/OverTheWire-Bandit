@@ -1,4 +1,4 @@
-# OverTheWire Bandit Level 23 to Level 24
+# Bandit Level 23 to Level 24
 
 ## Objective
 
